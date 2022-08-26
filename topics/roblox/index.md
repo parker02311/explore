@@ -1,5 +1,5 @@
 ---
-aliases: roblox, roblox-studio
+aliases: roblox-studio
 created_by: Roblox Corporation
 display_name: Roblox
 github_url: https://github.com/Roblox/
